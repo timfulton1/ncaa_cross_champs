@@ -4,6 +4,4 @@ This repository contains the code used to build a dashboard displaying NCAA Cros
 
 Visit the app here:  https://timfulton.shinyapps.io/NCAA_Cross_Dashboard/
 
-The app is optimized for Safari, Firefox, and Chrome, but may render differently in each browser.
-
 <img width="1424" alt="NCAA App" src="https://github.com/user-attachments/assets/9197da05-dce3-46a0-9176-8ff176728d41">
